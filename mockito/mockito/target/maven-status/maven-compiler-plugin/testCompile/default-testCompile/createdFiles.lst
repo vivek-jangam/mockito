@@ -1,0 +1,5 @@
+com\viv\mockito\controller\UserControllerIntegrationTest.class
+com\viv\mockito\repository\UserRepositoryIntegrationTest.class
+com\viv\mockito\service\UserServiceImplIntegrationTest.class
+com\viv\mockito\service\UserServiceImplIntegrationTest$UserServiceImplTestContextConfiguration.class
+com\viv\mockito\MockitoApplicationTests.class
